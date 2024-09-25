@@ -1,0 +1,11 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://acolowle.github.io/sitemap.acolowle.gz
+Sitemap: https://acolowle.github.io/app/sitemap.acolowle.gz
+Sitemap: https://acolowle.github.io/assets/sitemap.acolowle.gz
+Sitemap: https://acolowle.github.io/css/sitemap.acolowle.gz
+Sitemap: https://acolowle.github.io/data/sitemap.acolowle.gz
+Sitemap: https://acolowle.github.io/includes/sitemap.acolowle.gz
+Sitemap: https://acolowle.github.io/item/sitemap.acolowle.gz
+Sitemap: https://acolowle.github.io/src/sitemap.acolowle.gz
